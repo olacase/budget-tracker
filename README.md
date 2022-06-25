@@ -27,7 +27,7 @@ node server.js
 
 Open your browser and go to
 
-http://localhost:3001
+https://budgetmonk.herokuapp.com/
 
 User can add transactions as deposits or expenses by inputting the following:
 
